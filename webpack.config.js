@@ -3,6 +3,7 @@ const path = require("path");
 
 module.exports = {
   entry: "./src/index.js",
+  mode: 'development',
   output: {
     filename: "bundle.[hash].js",
     path: path.resolve(__dirname, "dist"),
@@ -25,7 +26,7 @@ module.exports = {
       },
       // {
       //   test: /\.css$/,
-      //   use: ["style-loader", "css-loader"],
+      //   use: ["css-loader"],
       // },
       {
         test: /\.png|svg|jpg|gif$/,

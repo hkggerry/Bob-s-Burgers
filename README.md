@@ -25,7 +25,5 @@ Special thanks to the person online who has uploaded a free API to the public to
 Please see the links below for reference.
 
 API: "https://bobsburgers-api.herokuapp.com/"
-
 Characters API: "https://bobsburgers-api.herokuapp.com/characters/"
-
 Episodes API: "https://bobsburgers-api.herokuapp.com/episodes/"
