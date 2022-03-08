@@ -1,18 +1,31 @@
-# Bob's Burgers
+# Bob's Burgers WIKI
 
-The website I will be creating for my Phase 2 project is called Bob's Burgers Wiki. I have been a huge fan of Bob's Burgers since college. I would like to make a website for the fans that can look up basic information for this show, infomation includes all the Bob's Burgers characters and a master list of all episodes from every season to date. 
+Description:
 
-The basic layout of the website is as follows:
+Ever since college, I have been a huge fan of Bob's Burgers. Bob's Burgers is an American animated sitcom that features Bob the restaurant owner and his family. Every episodes are worth the rewatch and I would normally have it on in the background as white noise.
 
-HEADER
-- Homepage
-- Characters
-    - Search Bar
-- Episodes
-    - Seasons
-    - Episode lists
-- Website Suggestion Box
+For all the fans out there, I would like to create a website for Bob's Burgers as my Phase 2 project. Website will include a list of characters that featured in the show and an episode list of all 12 seasons of the show. A check box will be included in the episode list to help keeping track which episode you have watched already.  
+
+With the knowledge from Phase 2 - React, I am capable of making this dream website come true.
+
+Website Layout:
+
+Homepage
+Characters
+Search Bar
+Episodes
+Seasons
+Episode lists
+Website Suggestion Box
+ 
+
+Credits:
+
+Special thanks to the person online who has uploaded a free API to the public to use.
+Please see the links below for reference.
 
 API: "https://bobsburgers-api.herokuapp.com/"
+
 Characters API: "https://bobsburgers-api.herokuapp.com/characters/"
+
 Episodes API: "https://bobsburgers-api.herokuapp.com/episodes/"
