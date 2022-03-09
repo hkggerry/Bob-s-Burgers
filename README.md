@@ -27,3 +27,6 @@ Please see the links below for reference.
 API: "https://bobsburgers-api.herokuapp.com/"
 Characters API: "https://bobsburgers-api.herokuapp.com/characters/"
 Episodes API: "https://bobsburgers-api.herokuapp.com/episodes/"
+
+Also shoutout to DevEd the youtuber for teaching us how to set up a React project.
+https://github.com/developedbyed/simple-react-setup
